@@ -23,6 +23,6 @@ Import the new version of the deck.
 Anki is a flashcard app designed to be used **in the long term**.
 It is not meant to be used to cram before a test, instead building knowledge slowly over time.
 
-Again should be used if you got the answer completely wrong, or if it's the first time you're seeing the card.
-Hard and Good are self explanatory.
-Easy will bury the card for a few days or more. Use this only if it really was easy.
+- Again should be used if you got the answer completely wrong, or if it's the first time you're seeing the card.
+- Hard and Good are self explanatory.
+- Easy will bury the card for a few days or more. Use this only if it really was easy.
