@@ -41,6 +41,6 @@ It's not essential you know everything in here, but some options may be useful.
 - New cards/day allows you to control how many unseen cards will be introduced every day.
 - Maximum reviews/day shouls be set to max, to allow any pending reviews to be completed.
 
-You can also use custom study to make temporary changes to study.
-Press any deck. At the bottom of the screen, custom study will allow you to make changes.
-Most useful is the "Increase today's new card limit," letting you see more new s than usual in one day.
+You can also use Custom Study to make temporary changes to study.
+Press any deck. At the bottom of the screen, Custom Study will allow you to make changes.
+Most useful is the "Increase today's new card limit," letting you see more new cards than usual in one day.
