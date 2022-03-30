@@ -18,6 +18,15 @@ Delete all cards with the CS tag and that have not been seen yet. These are mark
 
 Import the new version of the deck.
 
+## Grouping Units
+
+You can create a empty deck called CS, and drag the individual unit decks into this.
+Then, click CS to study all cards at the same time.
+
+If you want to study certain decks (for example, because an upcoming test only contains 4 of 8 topics), create another empty deck.
+Drag the units you want to study into this empty deck, open it and study.
+Once finished, drag the units back to the main CS empty deck.
+
 ## A quick guide to Anki
 
 Anki is a flashcard app designed to be used **in the long term**.
@@ -26,3 +35,12 @@ It is not meant to be used to cram before a test, instead building knowledge slo
 - Again should be used if you got the answer completely wrong, or if it's the first time you're seeing the card.
 - Hard and Good are self explanatory.
 - Easy will bury the card for a few days or more. Use this only if it really was easy.
+
+Click the cog icon next to any deck, and press Options.
+It's not essential you know everything in here, but some options may be useful.
+- New cards/day allows you to control how many unseen cards will be introduced every day.
+- Maximum reviews/day shouls be set to max, to allow any pending reviews to be completed.
+
+You can also use custom study to make temporary changes to study.
+Press any deck. At the bottom of the screen, custom study will allow you to make changes.
+Most useful is the "Increase today's new card limit," letting you see more new s than usual in one day.
