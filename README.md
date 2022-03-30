@@ -18,6 +18,8 @@ Delete all cards with the CS tag and that have not been seen yet. These are mark
 
 Import the new version of the deck.
 
+Note that this will not delete cards that you have studied before, with the intention of retaining your progress on this card. You can either choose to delete it manually and have it replaced, or go into the card and edit it with the new changes to keep your progress.
+
 ## Grouping Units
 
 You can create a empty deck called CS, and drag the individual unit decks into this.
