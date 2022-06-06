@@ -1,5 +1,5 @@
-# cs-anki
-A collection of Anki decks for A-Level CS.
+# anki-decks
+A collection of Anki decks for A-Level.
 
 ## Requirements
 [Anki](https://apps.ankiweb.net/) - A free, open-source flashcard app for Windows and MacOS.
